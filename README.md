@@ -1,5 +1,6 @@
 # Python Programming Language – “Music Interface” project
 
+
 ## Description:
 
 The Music Project Music Interface is a basic information management system for artists and albums without an API.
@@ -15,7 +16,7 @@ The file to be used is 'ProjetoFinalLogin_Nelson_Santiago.py'.
 When running the file, a Sign-in window will appear where you must enter the access credentials for the application.
 After entering these credentials, the application will start, with the graphical interface shown in the image below:
 
-
+![music_interface_image_git](https://github.com/NelsonSanti/Python_music_interface_project/assets/168756191/66328ddb-c345-4056-8cb6-4a6afcbec7af)
 
 
 ***Used technologies:***
@@ -23,7 +24,3 @@ After entering these credentials, the application will start, with the graphical
 * IDE – PyCharm Community Edition 2023.3.2
 * Programming Language – Python (Using Tkinter graphical interface)
 * Database – MySQL Workbench 8.0 CE
-
-
-
-
